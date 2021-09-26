@@ -1,4 +1,7 @@
 ### Hi there 👋
+🔭 I’m currently working on my Bikes-by-Eli repository (which is for time being private)
+🌱 I’m currently learning a lot about elm
+⚡ Fun fact: programming is cool
 
 <!--
 **lishaduck/lishaduck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
