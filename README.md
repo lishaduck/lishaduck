@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently working on my [Bikes-by-Eli](github.com/lishaduck/bikes-by-eli) repository (which is for time being private)  
+🔭 I’m currently working on my [Bikes-by-Eli](https://github.com/lishaduck/Bikes-By-Eli) repository (which is for time being private)  
 🌱 I’m currently learning a lot about the Elm language.  
 ⚡ Fun fact: Programming is cool. It's a fact now.  
 
