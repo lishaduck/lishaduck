@@ -1,7 +1,7 @@
 ### Hi there 👋
-🔭 I’m currently working on my Bikes-by-Eli repository (which is for time being private)  
+🔭 I’m currently working on my [Bikes-by-Eli](github.com/lishaduck/bikes-by-eli) repository (which is for time being private)  
 🌱 I’m currently learning a lot about the Elm language.  
-⚡ Fun fact: Programming is cool. I's a fact now.  
+⚡ Fun fact: Programming is cool. It's a fact now.  
 
 <!--
 **lishaduck/lishaduck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
