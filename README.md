@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Don't?
 - ⚡ Fun fact: Programming is cool. It's a fact now.  
 - 😄 Pronouns: He/Him/His
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lishaduck&count_private=true&show_icons=true&&theme=city_lights#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lishaduck&count_private=true&show_icons=true&&theme=swift#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
