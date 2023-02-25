@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him/His
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lishaduck&layout=compact&theme=city_lights#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lishaduck&layout=compact&theme=swift#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lishaduck&layout=compact&theme=city_lights#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lishaduck&layout=compact&theme=swift#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
