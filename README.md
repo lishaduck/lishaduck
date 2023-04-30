@@ -2,6 +2,8 @@
 
 [![Eli's GitHub stats](https://github-readme-stats.vercel.app/api?username=lishaduck&count_private=true&show_icons=true&&theme=city_lights#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Eli's GitHub stats](https://github-readme-stats.vercel.app/api?username=lishaduck&count_private=true&show_icons=true&&theme=swift#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=lishaduck&theme=city-lights#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=lishaduck&theme=swift#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
 
 
 <!--
