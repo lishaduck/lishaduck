@@ -1,10 +1,9 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
-[![Eli's GitHub stats](https://github-readme-stats.vercel.app/api?username=lishaduck&count_private=true&show_icons=true&&theme=city_lights#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Eli's GitHub stats](https://github-readme-stats.vercel.app/api?username=lishaduck&count_private=true&show_icons=true&&theme=swift#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Eli's GitHub stats](https://github-readme-stats.vercel.app/api?username=lishaduck&count_private=true&show_icons=true&hide_border=true&theme=city_lights#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=lishaduck&theme=city-lights#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only)
+[![Eli's GitHub stats](https://github-readme-stats.vercel.app/api?username=lishaduck&count_private=true&show_icons=true&hide_border=true&theme=swift#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=lishaduck&theme=swift#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
-
 
 <!--
 **lishaduck/lishaduck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,6 +20,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Programming is cool. It's, like, a fact now.
 - 😄 Pronouns: He/Him/His
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lishaduck&layout=compact&theme=city_lights#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lishaduck&layout=compact&theme=swift#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lishaduck&layout=compact&theme=city_lights&hide_border=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lishaduck&layout=compact&theme=swift&hide_border=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
