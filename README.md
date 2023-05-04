@@ -20,5 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Programming is cool. It's, like, a fact now.
 - 😄 Pronouns: He/Him/His
 
+[![trophies](https://github-profile-trophy.vercel.app/?username=lishaduck&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lishaduck&layout=compact&theme=city_lights&hide_border=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lishaduck&layout=compact&theme=swift&hide_border=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
