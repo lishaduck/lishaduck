@@ -32,3 +32,5 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lishaduck&layout=compact&theme=swift&hide_border=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 [![Top Langs by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lishaduck&theme=swift#gh-light-mode-only)](https://github.com/vn7n24fzkq/github-profile-summary-cards#gh-light-mode-only)
 [![Top langs by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lishaduck&theme=swift#gh-light-mode-only)](https://github.com/vn7n24fzkq/github-profile-summary-cards#gh-light-mode-only)
+
+[![Eli's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lishaduck&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
