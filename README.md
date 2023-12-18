@@ -1,13 +1,5 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
-[![GitHub timeline](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lishaduck&theme=city_lights#gh-dark-mode-only)](https://github.com/vn7n24fzkq/github-profile-summary-cards#gh-dark-mode-only)
-[![Eli's GitHub stats](https://github-readme-stats.vercel.app/api?username=lishaduck&count_private=true&show_icons=true&hide_border=true&theme=city_lights#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=lishaduck&theme=city-lights#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only)
-
-[![GitHub timeline](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lishaduck&theme=swift#gh-light-mode-only)](https://github.com/vn7n24fzkq/github-profile-summary-cards#gh-light-mode-only)
-[![Eli's GitHub stats](https://github-readme-stats.vercel.app/api?username=lishaduck&count_private=true&show_icons=true&hide_border=true&theme=swift#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=lishaduck&theme=swift#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
-
 <!--
 **lishaduck/lishaduck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,7 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Programming is cool. It's, like, a fact now. Just 'cause I say so…_definitely_.
 - 😄 Pronouns: He/Him/His
 
-[![trophies](https://github-profile-trophy.vercel.app/?username=lishaduck&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub timeline](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lishaduck&theme=city_lights#gh-dark-mode-only)](https://github.com/vn7n24fzkq/github-profile-summary-cards#gh-dark-mode-only)
+[![Eli's GitHub stats](https://github-readme-stats.vercel.app/api?username=lishaduck&count_private=true&show_icons=true&hide_border=true&theme=city_lights#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=lishaduck&theme=city-lights#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only)
+
+[![GitHub timeline](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lishaduck&theme=swift#gh-light-mode-only)](https://github.com/vn7n24fzkq/github-profile-summary-cards#gh-light-mode-only)
+[![Eli's GitHub stats](https://github-readme-stats.vercel.app/api?username=lishaduck&count_private=true&show_icons=true&hide_border=true&theme=swift#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=lishaduck&theme=swift#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lishaduck&layout=compact&theme=city_lights&hide_border=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Top Langs by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lishaduck&theme=city_lights#gh-dark-mode-only)](https://github.com/vn7n24fzkq/github-profile-summary-cards#gh-dark-mode-only)
@@ -33,4 +31,5 @@ Here are some ideas to get you started:
 [![Top Langs by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lishaduck&theme=swift#gh-light-mode-only)](https://github.com/vn7n24fzkq/github-profile-summary-cards#gh-light-mode-only)
 [![Top langs by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lishaduck&theme=swift#gh-light-mode-only)](https://github.com/vn7n24fzkq/github-profile-summary-cards#gh-light-mode-only)
 
+[![trophies](https://github-profile-trophy.vercel.app/?username=lishaduck&no-bg=true&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 [![Eli's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lishaduck&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
