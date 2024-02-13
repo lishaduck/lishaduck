@@ -1,4 +1,4 @@
-# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
+# Hi there 👋
 
 <!--
 **lishaduck/lishaduck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,15 +6,16 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on: [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)](https://flutter.dev/) for school<!-- , and my [![Elm](https://img.shields.io/badge/Elm-60B5CC?style=flat&logo=elm&logoColor=white)](https://elm-lang.org) [bikes-by-eli](https://github.com/lishaduck/bikes-by-eli) repository (which is, for time being, private). That's for my not-for-profit -->.  
-- 🌱 I’m currently learning a lot about: [![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)](https://dart.dev/).
-- 👯 I’m looking to collaborate on: nothing really.
-- 🤔 I’m looking for help with: Querying the PowerSchool APIs…?
-- 💬 How to ask me about something: I'm probably not the best person to ask. 🤷
-- 📫 How to reach me: Don't?
-- ⚡ Fun fact: Programming is cool. It's, like, a fact now. Just 'cause I say so…_definitely_.
-- 😄 Pronouns: He/Him/His
+- 🔭 I’m currently working on [learning gamedev](https://github.com/PHS-TSA/wizards-in-calculus).  
+- 🌱 I’m currently learning a lot about [![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?style=flat&logo=godot-engine)](https://godotengine.org/), [![Preact](https://img.shields.io/badge/Preact-673AB8.svg?style=flat&logo=preact)](https://flutter.dev/) and [![Fresh](https://img.shields.io/badge/Fresh-86EFAC.svg?style=flat&logo=hellofresh&logoColor=FFD60B)](https://fresh.deno.dev/), all of which are (sorta) for school.
+- 👯 I’m looking to collaborate on nothing currently.
+- 🤔 I’m looking for help with working with the many quirks of CSS, I guess?
+- 💬 How to ask me about something: Don't? I'm probably not the best person to ask. 🤷
+- 📫 How to reach me: [Create a discussion](https://github.com/lishaduck/lishaduck/discussions/new?category=general) on my meta GitHub repository.
+- ⚡ Fun fact: Math 🫀 Chemistry? 😔
 
+<!-- TODO(lishaduck): Switch to lowlight/metrics, which'll look a lot less tacky. -->
+<!--
 [![GitHub timeline](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lishaduck&theme=city_lights#gh-dark-mode-only)](https://github.com/vn7n24fzkq/github-profile-summary-cards#gh-dark-mode-only)
 [![Eli's GitHub stats](https://github-readme-stats.vercel.app/api?username=lishaduck&count_private=true&show_icons=true&hide_border=true&theme=city_lights#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=lishaduck&theme=city-lights#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only)
@@ -33,3 +34,4 @@ Here are some ideas to get you started:
 
 [![trophies](https://github-profile-trophy.vercel.app/?username=lishaduck&no-bg=true&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 [![Eli's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lishaduck&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
