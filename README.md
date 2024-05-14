@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with working with the many quirks of CSS, I guess?
 - 💬 How to ask me about something: Don't? I'm probably not the best person to ask. 🤷
 - 📫 How to reach me: [Create a discussion](https://github.com/lishaduck/lishaduck/discussions/new?category=general) on my meta GitHub repository.
-- ⚡ Fun fact: Chemistry 🫀 Math? 😔
+- ⚡ Fun fact: 🧪 🫀 🔢⁉️ 😔
 
 <!-- TODO(lishaduck): Switch to lowlight/metrics, which'll look a lot less tacky. -->
 <!--
