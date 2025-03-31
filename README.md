@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on [learning gamedev](https://github.com/PHS-TSA/wizards-in-calculus).  
-- 🌱 I’m currently learning a lot about [![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?style=flat&logo=godot-engine)](https://godotengine.org/), [![Preact](https://img.shields.io/badge/Preact-673AB8.svg?style=flat&logo=preact)](https://flutter.dev/) and [![Fresh](https://img.shields.io/badge/Fresh-86EFAC.svg?style=flat&logo=hellofresh&logoColor=FFD60B)](https://fresh.deno.dev/), all of which are (sorta) for school.
+- 🔭 I’m currently working on winning [MO TSA](https://github.com/PHS-TSA).  
+- 🌱 I’m currently learning a lot about [![Zig](https://img.shields.io/badge/Zig-F7A41D?logo=zig&logoColor=fff)](https://ziglang.org/) and OSDev.
 - 👯 I’m looking to collaborate on nothing currently.
 - 🤔 I’m looking for help with working with the many quirks of CSS, I guess?
 - 💬 How to ask me about something: Don't? I'm probably not the best person to ask. 🤷
