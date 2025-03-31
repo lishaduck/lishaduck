@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on winning [MO TSA](https://github.com/PHS-TSA).  
 - 🌱 I’m currently learning a lot about [![Zig](https://img.shields.io/badge/Zig-F7A41D?logo=zig&logoColor=fff)](https://ziglang.org/) and OSDev.
-- 👯 I’m looking to collaborate on nothing currently.
+- 👯 I’m looking to collaborate on [`effect-deno`](https://github.com/lishaduck/effect-utils), [`legacy_checks`](https://github.com/lishaduck/legacy_checks), and [`pnpm_nolyfill`](https://github.com/lishaduck/pnpmfile-nolyfill).
 - 🤔 I’m looking for help with working with the many quirks of CSS, I guess?
 - 💬 How to ask me about something: Don't? I'm probably not the best person to ask. 🤷
 - 📫 How to reach me: [Create a discussion](https://github.com/lishaduck/lishaduck/discussions/new?category=general) on my meta GitHub repository.
