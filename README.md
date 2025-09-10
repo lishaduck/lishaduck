@@ -6,13 +6,13 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently stressing out at the prospect of the end of the school year.
+- 🔭 I’m currently rocking a new school year.
 - 🌱 I’m currently learning a lot about [![Zig](https://img.shields.io/badge/Zig-F7A41D?logo=zig&logoColor=fff)](https://ziglang.org/) and OSDev.
-- 👯 I’m looking to collaborate on [`effect-platform-deno`](https://github.com/lishaduck/effect-utils), [`legacy_checks`](https://github.com/lishaduck/legacy_checks), and [`pnpm-nolyfill`](https://github.com/lishaduck/pnpmfile-nolyfill).
+- 👯 I’m looking to collaborate on [`legacy_checks`](https://github.com/lishaduck/legacy_checks), and [`pnpm-nolyfill`](https://github.com/lishaduck/pnpmfile-nolyfill).
 - 🤔 I’m looking for help with working with the many quirks of CSS, I guess?
-- 💬 How to ask me about something: Don't? I'm probably not the best person to ask. 🤷 Else… ↓
+- 💬 How to ask me about something: Don't? Why'd you want to even contact me anyway?
 - 📫 How to reach me: [Create a discussion](https://github.com/lishaduck/lishaduck/discussions/new?category=general) on my meta GitHub repository.
-- ⚡ Fun fact: 🧪 🫀 🔢⁉️ 😔 <!-- Science loves math :( Booooo!! -->
+- ⚡ Fun fact: Computers are for math, not humans.
 
 <!-- TODO(lishaduck): Switch to lowlight/metrics, which'll look a lot less tacky. -->
 <!--
