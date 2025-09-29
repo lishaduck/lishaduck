@@ -1,10 +1,4 @@
-# Hi there 👋
-
-<!--
-**lishaduck/lishaduck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
+# Hey there! 👋
 
 - 🔭 I’m currently rocking senior year.
 - 🌱 I’m currently learning [![Zig](https://img.shields.io/badge/Zig-F7A41D?logo=zig&logoColor=fff)](https://ziglang.org/).
